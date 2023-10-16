@@ -1,6 +1,6 @@
 # AdGen - Ad Generation Tool
 
-![AdGen](adgen.stevensbougault.co.uk)
+![AdGen](http://adgen.stevensbougault.co.uk/)
 
 AdGen is a project I started and am actively working on. The primary goal of this project is to enhance my skills in web development, specifically focusing on React, Tailwind CSS, and API integration using Express. Additionally, this project is inspired by the need for a tool to assist my girlfriend, who is starting a recruitment business, in creating job advertisements effortlessly.
 
